@@ -5,4 +5,4 @@ The `data.xlsx` contains 273 sampled articles, with their titles, author names, 
 
 
 ## Code for sentiment analysis
-The code for sentiment analysis and emotion analysis on Chinese texts is from [cnsenti](https://github.com/hiDaDeng/cnsenti/blob/master/README.md).
+The code for sentiment analysis on Chinese texts is from [cnsenti](https://github.com/hiDaDeng/cnsenti/blob/master/README.md).
